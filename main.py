@@ -13,7 +13,3 @@ print("\nStudent Name:", name)
 print("Total Marks:", total, "/ 300")
 print("Percentage:", round(percentage, 2), "%")
 
-if percentage >= 40:
-    print("Result: PASS")
-else:
-    print("Result: FAIL")
